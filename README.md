@@ -1,8 +1,8 @@
 # Single-Price-Grid-Component
 My solution to Frontend Mentor's Single Price Grid Component challenge.
 
-![Desktop Calculator](https://raw.githubusercontent.com/PresidentTree/Single-Price-Grid-Component/main/Grid%20Component%201.jpeg)
-![Mobile Calculator](https://raw.githubusercontent.com/PresidentTree/Single-Price-Grid-Component/main/Grid%20Component%202.jpeg)
+![Desktop](https://raw.githubusercontent.com/PresidentTree/Single-Price-Grid-Component/main/Single%20Price%20Grid%20Component%201.jpeg)
+![Mobile](https://raw.githubusercontent.com/PresidentTree/Single-Price-Grid-Component/main/Single%20Price%20Grid%20Component%202.jpeg)
 
 ## Challenge
 Users should be able to:
